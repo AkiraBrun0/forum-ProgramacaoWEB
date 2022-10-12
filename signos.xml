@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>19/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>
+        Elemento: Fogo
+        Regente: Marte
+        Flor: Gerânio, girassol, antúrio e gérbera
+        Pedra: Granada, pirita e rodonita
+        Amuletos: Olho-de-cabra, sol e pingente de pimenta
+        Perfume: Fragrâncias cítricas, florais intensas com especiarias (que contêm canela, pimenta, gengibre)
+        Anjo: Samuel
+        Orixá: Ogum
+        Santo Protetor: São Jorge
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>
+        Elemento: Terra
+        Regente: Vênus
+        Flor: Lírio, crisântemo, rosa e kalanchoe
+        Metal: Cobre
+        Pedra: Quartzo rosa, turmalina verde e sodalita
+        Amuletos: Figa
+        Perfume: Amadeirados, cítricos e frutais suaves com folhas e ervas (que contêm lima, chá verde e erva-doce). clássicos, amadeirados, cítricos e frutais suaves com folhas e ervas (lima, chá verde e erva-doce)
+        Anjo: Anael
+        Orixá: Oxóssi
+        Santo Protetor: São Sebastião
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>21/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>
+        Elemento: Ar
+        Regente: Mercúrio
+        Flor: Margarida, sempre-viva, lírio e azaleia
+        Metal: Alumínio
+        Pedra: Citrino, hematita e ágata
+        Amuletos: Símbolo yin-yang, miniatura de sapato e sininho
+        Perfume: Florais suaves com ingredientes marinhos e refrescantes (que contêm lírio, verbena e algas)
+        Anjo: Rafael
+        Orixá: Ibéji
+        Santo Protetor: São Cosme e São Damião
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>
+        Elemento: Água
+        Regente: Lua
+        Flor: Rosa, dália, violeta e miosótis
+        Metal: Prata
+        Pedra: Quartzo verde, ametista, madrepérola
+        Amuletos: Pingete de lua, peixe e elefante branco
+        Perfume: Frutais suaves, fragrâncias doces com misturas florais (colônias de banho ou de bebê, que contém lavanda e gardênia)
+        Anjo: Gabriel
+        Orixá: Oxum
+        Santo Protetor: Nossa Sra do Carmo
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>
+        Elemento: Fogo
+        Regente: Sol
+        Flor: Girassol, violeta, flor-do-campo e tulipa
+        Metal: Ouro
+        Pedra: Cristal, cornalina e coral
+        Amuletos: Pingente de sol
+        Perfume: Com notas florais intensas, fragrâncias frutais marcantes (que contém coquetel de frutas vermelhas)
+        Anjo: Miguel
+        Orixá: Xangô
+        Santo Protetor: São Jerônimo
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>
+        Elemento: Terra
+        Regente: Mercúrio
+        Flor: Açucena, cravo, jasmim e begônia
+        Metal: Alumínio
+        Pedra: Ágata, amazonita e jaspe
+        Amuletos: Escapulário
+        Perfume: Frutais levemente cítricos e florais suaves (que contêm lavanda, jasmim e maçã verde)
+        Anjo: Rafael
+        Orixá: Obaluaiê
+        Santo Protetor: São Roque
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>
+        Elemento: Ar
+        Regente: Vênus
+        Flor: Hortênsia, orquídea, violeta e lisianto
+        Metal: Cobre
+        Pedra: Turmalina rosa, água-marinha e citrino
+        Amuletos: Pirâmide
+        Perfume: Colônias suaves e buquê de flores delicadas (que contêm narciso, orquídea e rosas brancas)
+        Anjo: Anael
+        Orixá: Oxumaré
+        Santo Protetor: São Bartolomeu
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>
+        Elemento: Água
+        Regente: Plutão
+        Flor: Dália, orquídea, amor-perfeito e boca-de-leão
+        Metal: Bronze
+        Pedra: Ágata de fogo, cristal e turmalina
+        Amuletos: Pingente de borboleta
+        Perfume: Aromas florais intensos com toque de frutas e fragrâncias marcantes (que contêm patchuli, absinto e sândalo)
+        Anjo: Azrael
+        Orixá: Nanã
+        Santo Protetor: Sant'Ana
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>
+        Elemento: Fogo
+        Regente: Júpiter
+        Flor: Gérbera, girassol, hibisco e bromélia
+        Metal: Estanho
+        Pedra: Topázio, ametista e sodalita
+        Amuletos: Coruja miniatura
+        Perfume: Florais intensos, com toque oriental e especiarias exóticas (que contêm baunilha, anis e cravo)
+        Anjo: Saquiel
+        Orixá: Iansã
+        Santo Protetor: Santa Bárbara
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>
+        Elemento: Terra
+        Regente: Saturno
+        Flor: Cravo, crisântemo, lírio e acácia
+        Metal: Chumbo
+        Pedra: Ônix, hematita e quartzo fumê
+        Amuletos: Pomba miniatura
+        Perfume: Com toque suave de frutas, madeira e ervas (que contêm cedro, sândalo e notas verdes)
+        Anjo: Cassiel
+        Orixá: Omulu
+        Santo Protetor: São Lázaro
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>19/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>
+        Elemento: Ar
+        Regente: Urano
+        Flor: Jasmim, margarida, orquídea e prímula
+        Metal: Níquel
+        Pedra: Turmalina azul, cristal de quartzo e sodalita
+        Amuletos: Gato miniatura
+        Perfume: Fragrâncias florais refrescantes e com misturas curiosas (que contêm jasmim com groselha, chocolate com pimenta, tutti frutti com menta)
+        Anjo: Uriel
+        Orixá: Oxalá
+        Santo Protetor: São Paulo
+        </descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>
+        Elemento: Água
+        Regente: Netuno
+        Flor: Rosa, amor-perfeito, violeta e ciclame
+        Metal: Platina
+        Pedra: Ametista, água-marinha e quartzo verde
+        Amuletos: Crucifixo
+        Perfume: Frutais e florais levemente adocicados com toque de frescor (que contêm madressilva, capim-limão e flor de maçã)
+        Anjo: Asariel
+        Orixá: Iemanjá
+        Santo Protetor: Nossa Senhora, Mãe de Jesus
+        
+        </descricao>
+    </signo>
+</signos>
