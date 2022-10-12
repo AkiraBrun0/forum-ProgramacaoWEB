@@ -22,6 +22,7 @@
       </p>
     </div>
   </div>
+  <input type="button" value="Voltar" onClick="history.go(-1)">
 </body>
 
 </html>
