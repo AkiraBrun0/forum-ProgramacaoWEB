@@ -1,14 +1,17 @@
-## Atividade: Fórum ADS
+# Atividade: Fórum ADS
+
 <p align="center">
 <img src="https://img.shields.io/github/issues/AkiraBrun0/forum-ProgramacaoWEB"/>
 <img src="https://img.shields.io/github/forks/AkiraBrun0/forum-ProgramacaoWEB"/>
 <img src="https://img.shields.io/github/stars/AkiraBrun0/forum-ProgramacaoWEB"/>
 <a href="https://discord.com/channels/i3run0#4529" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/358074186721132545?style=flat" /></a>
 </p>
+
 <h4 align="center">
 :construction: Projeto em construção :construction:
 </h4>
-**Página desenvolvida para ativadade no curso de Analise e Desenvilvimento de Sistemas. Com um arquivo XML contendo uma breve descriação de signos, deve-se filtrar as datas a partir de uma entrada de data no formulario, onde a filtragem é realizada pelo arquivo "seletor.php", então mostrada a informação pelo arquivo "mostrar-signo.php"**
+
+Página desenvolvida para ativadade no curso de Analise e Desenvilvimento de Sistemas. Com um arquivo XML contendo uma breve descriação de signos, deve-se filtrar as datas a partir de uma entrada de data no formulario, onde a filtragem é realizada pelo arquivo "seletor.php", então mostrada a informação pelo arquivo "mostrar-signo.php".
 
 Não foi necessário estilizar por enquanto, pois o intuito da tarefa é mostrar corretamente as informações no arquivo XML.
 
