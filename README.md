@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/github/issues/AkiraBrun0/forum-ProgramacaoWEB"/>
 <img src="https://img.shields.io/github/forks/AkiraBrun0/forum-ProgramacaoWEB"/>
 <img src="https://img.shields.io/github/stars/AkiraBrun0/forum-ProgramacaoWEB"/>
-<img src="https://dcbadge.vercel.app/api/shield/358074186721132545" />
+<img src="https://dcbadge.vercel.app/api/shield/358074186721132545?style=flat" />
 </p>
 :construction: Projeto em construção :construction:
 <br>
