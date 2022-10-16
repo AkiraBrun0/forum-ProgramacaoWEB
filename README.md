@@ -1,5 +1,9 @@
 ## Atividade: Fórum ADS
-
+<p align="center">
+<img src="	https://img.shields.io/github/issues/AkiraBrun0/forum-ProgramacaoWEB"/>
+<img src="https://img.shields.io/github/forks/AkiraBrun0/forum-ProgramacaoWEB"/>
+<img src="https://img.shields.io/github/stars/AkiraBrun0/forum-ProgramacaoWEB"/>
+</p>
 :construction: Projeto em construção :construction:
 
 **Página desenvolvida para ativadade no curso de Analise e Desenvilvimento de Sistemas. Com um arquivo XML contendo uma breve descriação de signos, deve-se filtrar as datas a partir de uma entrada de data no formulario, onde a filtragem é realizada pelo arquivo "seletor.php", então mostrada a informação pelo arquivo "mostrar-signo.php"**
@@ -9,10 +13,10 @@ Não foi necessário estilizar por enquanto, pois o intuito da tarefa é mostrar
 ## ✔️ Tecnologias utilizadas
 Confira cada uma delas no link.
 
-- `[PHP]`(https://pt.wikipedia.org/wiki/PHP): Linguagem geralmente utilizada no lado do servidor, utilizada para filtrar os dados do formulario HTML e XML.
-- `[HTML]`(https://pt.wikipedia.org/wiki/HTML): Utilizado na construção das páginas na Web.
-- `[XML]`(https://pt.wikipedia.org/wiki/XML): Utilizada para marcar os dados dos signos armazenados no documento.
-- `[XAMPP]`(https://www.apachefriends.org/pt_br/index.html): Utilizado o Apache para servidor web local.
+- [PHP](https://pt.wikipedia.org/wiki/PHP): Linguagem geralmente utilizada no lado do servidor, utilizada para filtrar os dados do formulario HTML e XML.
+- [HTML](https://pt.wikipedia.org/wiki/HTML): Utilizado na construção das páginas na Web.
+- [XML](https://pt.wikipedia.org/wiki/XML): Utilizada para marcar os dados dos signos armazenados no documento.
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html): Utilizado o Apache para servidor web local.
 
 ## 🔨 Funcionalidades do projeto
 **Arquivo index.HTML** - responsável por colher a informação de data através de um input de tipo "date" de um formulário e enviar via método POST para uma página php associada.
