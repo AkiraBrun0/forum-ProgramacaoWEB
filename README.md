@@ -1,5 +1,8 @@
-# forumADS
-Página sem estilização, leitura e filtragem de arquivo xml com php
+# Atividade: Fórum ADS
+
+:contruction: Projeto em construção :construction:
+
+**Página sem estilização, leitura e filtragem de arquivo xml com php**
 
 Arquivo index.HTML - responsável por colher a informação de data através de um formulário e metodo POST.
 Arquivo seleter.PHP - responsável por receber os dados da págia HTML e filtrar a informação com base
